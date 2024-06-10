@@ -1,0 +1,47 @@
+header{
+    width: 100%;
+}
+
+.container{
+    width: 1140px;
+    margin: auto;
+}
+
+.manu-part{ 
+    width: 100%;
+    float: left;
+}
+
+.logo img{
+    width: 10%;
+    height: 10%;
+    float: left;
+}
+
+.manu{
+    width: 35%;
+    float: left;
+}
+ .button{
+    width: 5%;
+    float: left;
+ }
+
+ .menu ul {
+    margin: 0%;
+    padding: 0%;
+ }
+
+ .manu ul li{
+    list-style-type: none;
+    display: inline-block;
+    margin-right: 15px;
+    margin-top: 20px;
+    font-size: 15px;
+    text-transform: capitalize;
+    color: blue;
+    
+ }
+ .button{
+    margin-top: 20px;
+ }
